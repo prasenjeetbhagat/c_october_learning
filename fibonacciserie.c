@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
+
 {
 	int first=0,second=1,next,i;
 	printf("%d\n%d\n",first,second);
@@ -10,23 +11,6 @@ int main()
 	    first=second;
 	    second=next;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
 	return 0;
