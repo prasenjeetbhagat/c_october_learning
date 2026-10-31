@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-	int i,j;
+	int i,j,m;
 	
 	//number print array
 //	int price[5]={10,20,30,40,50};
@@ -20,7 +20,13 @@ int main(){
 	}
 
 	
+	//reverse array
 	
+		char name[5]={'p','r','a','m','s'};
+	for(m=4;m>0;m--)
+	{
+			printf("%c\n",name[m]);
+	}
 	
 	
 	
