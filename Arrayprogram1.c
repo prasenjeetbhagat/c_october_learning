@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-	int i,j,m;
+	// int i,j,m;
 	
 	//simple program of array datatype float
 	
@@ -55,9 +55,7 @@ int main(){
 //	for(i=0;i<4;i++){
 //		printf("%d\n",words[i]);
 //	}
-//	
-//	
-//	
+
 	//=====================================================================
 	//max value of elements
 
